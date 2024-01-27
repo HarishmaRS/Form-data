@@ -1,0 +1,15 @@
+.input_box{
+    width: 300px;
+    /* height: 25px; */
+    margin: auto;
+}
+.submit_button{
+    background-color: transparent;
+    color: var(--secondary);
+    box-shadow: 1px 1px 6px;
+    border: 1px solid ;
+}
+.submit_button:hover{
+    color: #000;
+    border: 1px solid;
+}
